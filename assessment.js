@@ -2,7 +2,7 @@
 //'firstname' 'age' and 'state'. Assign the keys the appropriate 
 //values.
 
-var me = {firstname: "Levi", age: "28", state: "Minnesota"
+var me = { firstname: "Levi", age: "28", state: "Minnesota"
 };
 
 // #2 Add a new key/value pair to the me object using dot notation. 
